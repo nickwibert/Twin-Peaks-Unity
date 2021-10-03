@@ -1,0 +1,4 @@
+[NAME=The Man from Another Place]I've got good news.
+<color="red">You are home.</color>
+Our <color="yellow">garmonbozia</color> (pain and sorrow) was canned, over the store. <color="grey">BOB</color> took it all.
+<color="grey">BOB</color> scattered the cans throughout the <color="red">LODGE</color>. Find them all.

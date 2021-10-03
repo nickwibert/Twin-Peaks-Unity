@@ -1,0 +1,3 @@
+[NAME=The One-Armed Man]<color="red">Don't die.</color>
+What lies below?
+Perhaps death does not always await you on the other side.

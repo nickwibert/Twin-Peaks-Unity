@@ -1,0 +1,3 @@
+[NAME=Agent Cooper]Are you Laura Palmer?
+[NAME=Doppelgänger Laura]...
+[NAME=Doppelgänger Laura]Meanwhile.
